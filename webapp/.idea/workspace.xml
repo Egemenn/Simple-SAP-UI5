@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc02c6e3-d794-4f75-ad56-735cb96496df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controller/HelloPanel.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/HelloDialog.fragment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/view/HelloPanel.view.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/App.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/App.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/HelloPanel.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/HelloPanel.controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/i18n/i18n.properties" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/i18n.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/App.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/App.view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/HelloDialog.fragment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/HelloDialog.fragment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/HelloPanel.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/HelloPanel.view.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,7 @@
       <workItem from="1604585765591" duration="1985000" />
       <workItem from="1604657148124" duration="2829000" />
       <workItem from="1604661564660" duration="1265000" />
+      <workItem from="1604917378321" duration="1715000" />
     </task>
     <servers />
   </component>
