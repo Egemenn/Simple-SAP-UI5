@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc02c6e3-d794-4f75-ad56-735cb96496df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/unit/model/formatter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/unitTests.qunit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/unitTests.qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/integration/NavigationJourney.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/integration/opaTests.qunit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/integration/pages/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Component.js" beforeDir="false" afterPath="$PROJECT_DIR$/Component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/localService/metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/localService/metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/localService/mockdata/Invoices.json" beforeDir="false" afterPath="$PROJECT_DIR$/localService/mockdata/Invoices.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/mockServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/mockServer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +61,7 @@
       <workItem from="1605078528118" duration="6106000" />
       <workItem from="1605134284810" duration="619000" />
       <workItem from="1605169241428" duration="6380000" />
-      <workItem from="1605201389724" duration="1947000" />
+      <workItem from="1605201389724" duration="2260000" />
     </task>
     <servers />
   </component>
