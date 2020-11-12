@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc02c6e3-d794-4f75-ad56-735cb96496df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/localService/metadata.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localService/mockServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localService/mockdata/Invoices.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/initMockServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mockServer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/InvoiceList.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/InvoiceList.controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/InvoiceList.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/InvoiceList.view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,9 @@
       <workItem from="1604661564660" duration="1265000" />
       <workItem from="1604917378321" duration="6142000" />
       <workItem from="1605005521611" duration="1927000" />
-      <workItem from="1605078528118" duration="5506000" />
+      <workItem from="1605078528118" duration="6106000" />
+      <workItem from="1605134284810" duration="619000" />
+      <workItem from="1605169241428" duration="4556000" />
     </task>
     <servers />
   </component>
