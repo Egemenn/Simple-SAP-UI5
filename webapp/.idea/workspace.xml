@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc02c6e3-d794-4f75-ad56-735cb96496df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/localService/metadata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/localService/mockServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/localService/mockdata/Invoices.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/initMockServer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/mockServer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/unit/model/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/unit/unitTests.qunit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/unit/unitTests.qunit.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Component.js" beforeDir="false" afterPath="$PROJECT_DIR$/Component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/localService/metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/localService/metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/localService/mockdata/Invoices.json" beforeDir="false" afterPath="$PROJECT_DIR$/localService/mockdata/Invoices.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/mockServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/mockServer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +34,16 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.mockServer.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webapp/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="mockServer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webapp/test/mockServer.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.mockServer.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -59,7 +66,8 @@
       <workItem from="1605005521611" duration="1927000" />
       <workItem from="1605078528118" duration="6106000" />
       <workItem from="1605134284810" duration="619000" />
-      <workItem from="1605169241428" duration="4556000" />
+      <workItem from="1605169241428" duration="6380000" />
+      <workItem from="1605201389724" duration="1947000" />
     </task>
     <servers />
   </component>
