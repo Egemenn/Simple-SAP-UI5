@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc02c6e3-d794-4f75-ad56-735cb96496df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/integration/opaTests.qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/Detail.view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/Overview.view.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Component.js" beforeDir="false" afterPath="$PROJECT_DIR$/Component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/InvoiceList.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controller/InvoiceList.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i18n/i18n.properties" beforeDir="false" afterPath="$PROJECT_DIR$/i18n/i18n.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/App.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/App.view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/InvoiceList.view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/view/InvoiceList.view.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +43,13 @@
     <configuration name="opaTests.qunit.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webapp/test/integration/opaTests.qunit.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="InvoiceList.controller.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/controller/InvoiceList.controller.js" working-dir="$PROJECT_DIR$/controller">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.opaTests.qunit.html" />
+        <item itemvalue="Node.js.InvoiceList.controller.js" />
         <item itemvalue="JavaScript Debug.mockServer.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -63,7 +74,8 @@
       <workItem from="1605078528118" duration="6106000" />
       <workItem from="1605134284810" duration="619000" />
       <workItem from="1605169241428" duration="6380000" />
-      <workItem from="1605201389724" duration="2379000" />
+      <workItem from="1605201389724" duration="2509000" />
+      <workItem from="1605254118534" duration="5622000" />
     </task>
     <servers />
   </component>
@@ -74,6 +86,22 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.properties" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1605273119221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605273119221" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1605273119221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605273119221" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1605273119220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605273119220" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1605273119221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605273119221" />
     <state x="65" y="24" key="new project wizard" timestamp="1604488970096">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
