@@ -29,12 +29,13 @@ sap.ui.define([
             var oDeviceModel = new JSONModel(Device);
             oDeviceModel.setDefaultBindingMode("OneWay");
             this.setModel(oDeviceModel, "device");
-            
+
             // set dialog
             this._helloDialog = new HelloDialog(this.getRootControl());
 
             // create the views based on the url/hash
             this.getRouter().initialize();
+
         },
 
         exit : function () {
@@ -44,6 +45,17 @@ sap.ui.define([
 
         openHelloDialog : function () {
             this._helloDialog.open();
+        },
+
+        getContentDensityClass : function () {
+            if (!this._sContentDensityClass) {
+                if (!Device.support.touch) {
+                    this._sContentDensityClass = "sapUiSizeCompact";
+                } else {
+                    this._sContentDensityClass = "sapUiSizeCozy";
+                }
+            }
+            return this._sContentDensityClass;
         }
 
     });
